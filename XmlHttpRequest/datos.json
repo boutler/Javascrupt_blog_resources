@@ -1,0 +1,44 @@
+[{
+        "employee": "Catalina",
+        "inline": false,
+        "salary": 1300,
+        "role": "Software Engineer",
+        "roleDescription": "El tio desarrolla software como un verdadero ingeniero, es la caña",
+        "productivity": "90%"
+    },
+
+    {
+        "employee": "Marcos",
+        "inline": true,
+        "salary": 1600,
+        "role": "Senior Software Engineer",
+        "roleDescription": "Es el papito del desarrollo, sin el, estamos perdidos",
+        "productivity": "99%"
+    },
+
+    {
+        "employee": "Susana",
+        "inline": false,
+        "salary": 1800,
+        "role": "Project Leader",
+        "roleDescription": "El lider, el vago, sus proyectos son una bazofia.",
+        "productivity": "15%"
+    },
+
+    {
+        "employee": "Sebastián",
+        "inline": true,
+        "salary": 1100,
+        "role": "Front-End Developer",
+        "roleDescription": "Interfaces de usuario muy bonitas pero necesita desarrollar sus habilidades con Javascript",
+        "productivity": "60%"
+    },
+    {
+        "employee": "Matías",
+        "inline": false,
+        "salary": 1100,
+        "role": "Back-End Developer",
+        "roleDescription": "Todos los datos de la empresa dependen de el, tiene mas responsabilidad que el Project Leader vago ese.",
+        "productivity": "75%"
+    }
+]

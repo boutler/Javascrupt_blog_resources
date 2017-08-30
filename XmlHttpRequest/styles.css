@@ -1,0 +1,7 @@
+div.empleados {
+    margin-top: 30px;
+}
+
+div.empleados .card {
+    margin: 15px 0;
+}
