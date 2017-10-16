@@ -1,0 +1,16 @@
+{
+  "name": "parte1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "daniel",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1"
+  },
+  "scripts": {
+    "babel-transform": "babel lib/app.js --out-file=public/app.js --presets=env,react",
+    "babel-watch": "babel lib/app.js --out-file=public/app.js --presets=env,react --watch"
+  }
+}
